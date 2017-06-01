@@ -9,6 +9,8 @@
 
 # Sample Plots
 
+#### Plot1: The line plot shows the relationship between month and the number of flights of each carrier.
+![alt text](https://github.com/wgnzyc/visualization/blob/master/plot1.png)
 
 #### Plot2: The map plot shows the relationship between different time scale(month/ day of month/ day of week) and the number of flights that each carrier has. 
 ![alt text](https://github.com/wgnzyc/visualization/blob/master/map_plot.png)
